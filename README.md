@@ -21,6 +21,7 @@ shopping-calculator/
 ├── main.js            <-- Compiled JavaScript (generated)
 └── tsconfig.json      <-- TypeScript compiler config
 
+Direct Access :- https://codesandbox.io/p/sandbox/vmnh7q?file=%2Fsrc%2Findex.html%3A15%2C27
 
 How to Run Locally :- 
 
@@ -39,3 +40,6 @@ How to Run Locally :-
 
 5.  Open in Browser
     Double-click index.html or open it in a browser manually.
+
+
+    
